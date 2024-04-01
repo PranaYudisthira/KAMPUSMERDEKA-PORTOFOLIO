@@ -1,0 +1,30 @@
+body {
+  width: 100%;
+  background-color: rgb(235, 234, 234);
+}
+
+@media only screen and (max-width: 600px) {
+  #text {
+    text-align: center;
+  }
+}
+
+.nav-link:hover {
+  background-color: rgb(32, 32, 226);
+}
+
+.jumbotron {
+  padding-top: 7rem;
+  padding-bottom: 4rem;
+  text-align: center;
+  background-color: rgba(71, 149, 251, 0.344);
+}
+
+#project {
+  background-color: rgba(71, 149, 251, 0.344);
+}
+
+section {
+  padding-top: 5rem;
+  padding-bottom: 10rem;
+}
